@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[alias]
+	co = checkout
+	b = branch
+	s = status
+	c = commit
+	u = log @{push}..
+	ud = diff @{push}..
+[user]
+	email = dbunked@gmail.com
+	name = Dan Bunker

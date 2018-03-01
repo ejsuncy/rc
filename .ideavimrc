@@ -1,0 +1,4 @@
+#nnoremap k kzz
+#nnoremap j jzz
+set ignorecase
+
